@@ -22,9 +22,10 @@ I’m passionate about developing trustworthy and privacy-preserving learning sy
 
 ## 🗞️ News & Recent Updates
 
+- **[2025]** 📄 **Paper** "Transforming Threats to Assets: Utilizing Backdoor Attack Models in Federated Learning" accepted at IEEE Transactions on Consumer Electronics 
 - **[2025]** 🎉 Accepted as a **Visiting Researcher at CaMLSys from the University of Cambridge**
 - **[2025]** 🎤 Invited **Student Speaker** at *Flower AI Summit 2025*
 - **[2024]** 🎓 Began **PhD in Computer Science** at the *University of Warwick*
-- **[2022]** 📄 Paper *“A DDoS Impact Analysis Index for Edge Internet of Things System Evaluation”* accepted at *IEEE ISPCE-Asia 2022*
+- **[2022]** 📄 **Paper** *“A DDoS Impact Analysis Index for Edge Internet of Things System Evaluation”* accepted at *IEEE ISPCE-Asia 2022*
 
 ---
